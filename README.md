@@ -61,15 +61,15 @@ Operations: `1 → Addition` , `2 → Subtraction` , `3 → Multiplication` , `4
 
 ```
 java-bug-hunter/
-├── week1/
-│   ├── Q1_LightBulbTest.java
-│   ├── Q2_BankBalance.java
-│   ├── Q3_FasterRunner.java
-│   ├── Q4_BiggestTreasure.java
-│   ├── Q5_MagicCalendar.java
-│   ├── Q6_ReportCard.java
-│   └── Q7_RobotAssistant.java
-└── README.md
+└── src/
+    └── Week_01/
+        ├── Q1_LightBulbTest.java
+        ├── Q2_BankBalance.java
+        ├── Q3_FasterRunner.java
+        ├── Q4_BiggestTreasure.java
+        ├── Q5_MagicCalendar.java
+        ├── Q6_ReportCard.java
+        └── Q7_RobotAssistant.java
 ```
 ---
 
