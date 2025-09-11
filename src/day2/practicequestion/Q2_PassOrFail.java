@@ -1,4 +1,4 @@
-package Week_01.Optional;
+package day2.practicequestion;
 
 public class Q2_PassOrFail {
     public static void main(String[] args) {

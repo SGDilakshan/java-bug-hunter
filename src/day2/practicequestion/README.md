@@ -1,4 +1,4 @@
-# Bug Hunter - Week 01 (Optional Questions)
+# Bug Hunter - Day 02 (Optional Questions)
 
 **Problem 1: Speed Limit Check**  
 The city has a speed limit of **60 km/h**. If a car’s speed is greater than the limit, it should display “Overspeeding! Pay Fine”. Otherwise, display “You are within the speed limit”.
