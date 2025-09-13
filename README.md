@@ -1,8 +1,5 @@
 # Java Bug Hunter
-```bash
-     A hands-on learning repository built from exercises conducted in the **GOMATHINAYAGAM (Goms) "Code IO - Tamil" Live Java Workshop**. This project provides a structured way for beginners to practice and master Java fundamentals through real-world inspired mini-problems.
-
-````
+A hands-on learning repository built from exercises conducted in the **GOMATHINAYAGAM (Goms) "Code IO - Tamil" Live Java Workshop**. This project provides a structured way for beginners to practice and master Java fundamentals through real-world inspired mini-problems.
 
 ---
 
@@ -73,23 +70,12 @@ java-bug-hunter/
 ---
 
 ### 👨‍💻 Author  
-```bash
-     Sivanathan Dilakshan  
-     Full Stack Developer Trainee @ QTechy | B.Sc. (Hons) Software Engineering Undergraduate @ University of Kelaniya
-     📞 Phone: +94 77 489 2145
-     📧 Email: dilakshan.info@gmail.com
-```
-
----
-
-### 📝 License
-```bash
-  This project is created for educational purposes as part of the GOMATHINAYAGAM (Goms) "Code IO - Tamil" Live Java Workshop.
-```
+Sivanathan Dilakshan  
+Full Stack Developer Trainee @ QTechy | B.Sc. (Hons) Software Engineering Undergraduate @ University of Kelaniya  
+📞 +94 77 489 2145  
+📧 dilakshan.info@gmail.com
 
 ---
 
 ###  🔮 Future Updates
-```bash
-  More practice questions and assignments from upcoming classes will be added soon!
-```
+More practice questions and assignments from upcoming classes will be added soon!
