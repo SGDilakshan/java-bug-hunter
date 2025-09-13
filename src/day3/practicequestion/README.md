@@ -1,7 +1,6 @@
 # Bug Hunter – Day 03 (Optional Questions)
 
-Date: 13 September 2025
-Day: Saturday
+**Date: 13 September 2025**
 
 ---
 
