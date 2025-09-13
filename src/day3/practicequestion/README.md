@@ -3,6 +3,8 @@
 Date: 13 September 2025
 Day: Saturday
 
+---
+
 **Problem 1: Generate a Random Number**  
 Write a Java program to generate and display a random number between 1 and 100 using Math.random().
 
@@ -20,6 +22,7 @@ Write a Java program that demonstrates type casting by converting a double value
 
 **Problem 4: String Concatenation**  
 Write a Java program that concatenates two strings entered by the user and displays the combined string
+
 ---
 
 **Problem 5: Check Positive, Negative, or Zero**  
