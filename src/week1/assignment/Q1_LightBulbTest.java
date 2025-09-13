@@ -1,4 +1,4 @@
-package Week_01;
+package week1.assignment;
 
 /*
 1. The Light Bulb Test

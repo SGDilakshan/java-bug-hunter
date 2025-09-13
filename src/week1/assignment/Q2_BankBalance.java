@@ -1,4 +1,4 @@
-package Week_01;
+package week1.assignment;
 
 /*
 2. The Bank Balance
