@@ -1,6 +1,6 @@
 package day4.practicequestion;
 
-// Write a Java program to print an inverted right-angled triangle of asterisks with 4 rows.
+// Write a Java program to print an inverted right-angled triangle of asterisks with 4 rows
 
 public class Q10_InvertedTriangle {
     public static void main(String[] args) {
