@@ -8,7 +8,7 @@ package day4.practicequestion;
 // 5 → Friday
 // 6 → Saturday
 // 7 → Sunday
-// If the input number is not between 1 and 7, print "Invalid day".
+// If the input number is not between 1 and 7, print "Invalid day"
 
 public class Q01_CheckDay {
     public static void main(String[] args) {
