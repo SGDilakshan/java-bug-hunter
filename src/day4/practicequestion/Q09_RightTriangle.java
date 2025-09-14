@@ -1,6 +1,6 @@
 package day4.practicequestion;
 
-// Write a Java program to print a right-angled triangle of asterisks with 4 rows.
+// Write a Java program to print a right-angled triangle of asterisks with 4 rows
 
 public class Q09_RightTriangle {
     public static void main(String[] args) {
