@@ -2,7 +2,7 @@ package day4.practicequestion;
 
 // Write a Java program to display all natural numbers from 1 to 20.
 
-public class Q2_NaturalNumbers {
+public class Q02_NaturalNumbers {
     public static void main(String[] args) {
         int i = 1;
 

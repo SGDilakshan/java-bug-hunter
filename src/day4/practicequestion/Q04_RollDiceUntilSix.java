@@ -2,7 +2,7 @@ package day4.practicequestion;
 
 // Write a Java program to simulate rolling a dice until you get a 6. Display each number rolled.
 
-public class Q4_RollDiceUntilSix {
+public class Q04_RollDiceUntilSix {
     public static void main(String[] args) {
         int dice;
 
