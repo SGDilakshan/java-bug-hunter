@@ -65,7 +65,6 @@ java-bug-hunter/
 ---
 
 ### 🚀 How to Run
-
 #### Clone the repository:
 ```bash
    git clone https://github.com/SGDilakshan/java-bug-hunter.git
