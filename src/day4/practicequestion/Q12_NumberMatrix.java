@@ -1,6 +1,6 @@
 package day4.practicequestion;
 
-// Write a Java program to print numbers from 1 to 25 in a 5×5 grid.
+// Write a Java program to print numbers from 1 to 25 in a 5×5 grid
 
 public class Q12_NumberMatrix {
     public static void main(String[] args) {
