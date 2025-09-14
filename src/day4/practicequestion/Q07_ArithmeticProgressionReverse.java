@@ -1,6 +1,6 @@
 package day4.practicequestion;
 
-// Print the first 10 terms of an Arithmetic Progression (AP) starting from 5 with a common difference of 3 in reverse order
+// Print the first 10 terms of an Arithmetic Progression (AP) starting from 5 with a common difference of 3 in reverse order.
 
 public class Q07_ArithmeticProgressionReverse {
     public static void main(String[] args) {
