@@ -10,6 +10,7 @@ public class Q5_AddTwoWithoutExceedingTen {
             System.out.println(n);
             n += 2;
         } while (n <= 10);
+
     }
 }
 
