@@ -1,6 +1,6 @@
 package day4.practicequestion;
 
-// Write a Java program to print 5 rows where each row starts with the row number followed by numbers 1 to 5.
+// Write a Java program to print 5 rows where each row starts with the row number followed by numbers 1 to 5
 
 public class Q11_NumberGrid {
     public static void main(String[] args) {
