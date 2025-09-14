@@ -1,6 +1,6 @@
 package day4.practicequestion;
 
-// Write a Java program to print a 4×4 square of asterisks (*).
+// Write a Java program to print a 4×4 square of asterisks (*)
 
 public class Q08_SquarePattern {
     public static void main(String[] args) {
