@@ -4,8 +4,8 @@
 
 ---
 
-## Problem 1: The Light Bulb Test
-Write a Java program where a smart light bulb switches **ON** only if an even number is entered; otherwise, it stays **OFF**.
+## Question 1: The Light Bulb Test  
+Write a Java program where a smart light bulb switches ON only if an even number is entered; otherwise, it stays OFF.
 - **Output:** `"ON"` if even, `"OFF"` if odd
 - **Sample Input/Output:**
     - `Input: 4 → Output: ON`
@@ -14,7 +14,7 @@ Write a Java program where a smart light bulb switches **ON** only if an even nu
 
 ---
 
-## Problem 2: The Bank Balance
+## Question 2: The Bank Balance
 Write a Java program to show the status of a customer’s bank account.
 - **Output:** `"Positive Balance"` if balance > 0, `"Overdraft"` if balance < 0, `"Zero Balance"` if balance == 0
 - **Sample Input/Output:**
@@ -24,7 +24,7 @@ Write a Java program to show the status of a customer’s bank account.
 
 ---
 
-## Problem 3: The Faster Runner
+## Question 3: The Faster Runner
 Write a Java program to compare the times of two friends running a race.
 - **Output:** `"Arjun"` if Arjun is faster, `"Varun"` if Varun is faster, `"Tie"` if equal
 - **Sample Input/Output:**
@@ -34,7 +34,7 @@ Write a Java program to compare the times of two friends running a race.
 
 ---
 
-## Problem 4: The Biggest Treasure
+## Question 4: The Biggest Treasure
 Write a Java program to determine the largest treasure among three chests.
 - **Output:** Largest value
 - **Sample Input/Output:**
@@ -44,7 +44,7 @@ Write a Java program to determine the largest treasure among three chests.
 
 ---
 
-## Problem 5: The Magic Calendar
+## Question 5: The Magic Calendar
 Write a Java program to determine if a year is a leap year.
 - **Output:** `"Leap Year"` or `"Not a Leap Year"`
 - **Sample Input/Output:**
@@ -54,7 +54,7 @@ Write a Java program to determine if a year is a leap year.
 
 ---
 
-## Problem 6: The Report Card
+## Question 6: The Report Card
 Write a Java program to generate a report card based on marks.
 - **Output:**
     - `"A"` if marks ≥ 90
@@ -68,10 +68,12 @@ Write a Java program to generate a report card based on marks.
 
 ---
 
-## Problem 7: The Robot Assistant
+## Question 7: The Robot Assistant
 Write a Java program to perform basic arithmetic operations based on input:  
 Operations: `1 → Addition`, `2 → Subtraction`, `3 → Multiplication`, `4 → Division`
 - **Sample Input/Output:**
     - `Input: 10 5, 1 → Output: 15`
     - `Input: 20 4, 4 → Output: 5`
     - `Input: 6 7, 3 → Output: 42`
+
+---
