@@ -59,15 +59,28 @@ java-bug-hunter/
 │   │       ├── Q06_StarPyramid.java
 │   │       ├── Q07_InvertedRightAngledTriangle.java
 │   │       └── README.md
-│   └── week1/
+│   ├── week1/
+│   │   └── assignment/
+│   │       ├── Q1_LightBulbTest.java
+│   │       ├── Q2_BankBalance.java
+│   │       ├── Q3_FasterRunner.java
+│   │       ├── Q4_BiggestTreasure.java
+│   │       ├── Q5_MagicCalendar.java
+│   │       ├── Q6_ReportCard.java
+│   │       ├── Q7_RobotAssistant.java
+│   │       └── README.md
+│   └── week2/
 │       └── assignment/
-│           ├── Q1_LightBulbTest.java
-│           ├── Q2_BankBalance.java
-│           ├── Q3_FasterRunner.java
-│           ├── Q4_BiggestTreasure.java
-│           ├── Q5_MagicCalendar.java
-│           ├── Q6_ReportCard.java
-│           ├── Q7_RobotAssistant.java
+│           ├── Q01_CountPositiveNegativeZero.java
+│           ├── Q02_SecondLargestNumber.java
+│           ├── Q03_CountNumberOccurrences.java
+│           ├── Q04_PrintEvenIndexElements.java
+│           ├── Q05_ReverseNumber.java
+│           ├── Q06_PrintSquares.java
+│           ├── Q07_ArmstrongNumberCheck.java
+│           ├── Q08_PalindromeNumberCheck.java
+│           ├── Q09_NumberTriangle.java
+│           ├── Q10_StarPyramid.java
 │           └── README.md
 └── README.md
 ```
@@ -75,7 +88,6 @@ java-bug-hunter/
 ---
 
 ### 🚀 How to Run
-
 #### Clone the repository:
 ```bash
    git clone https://github.com/SGDilakshan/java-bug-hunter.git
