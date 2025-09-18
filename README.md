@@ -36,7 +36,7 @@ java-bug-hunter/
 │   │       ├── Q01_CheckDay.java
 │   │       ├── Q02_NaturalNumbers.java
 │   │       ├── Q03_SumOfFirstNNumbers.java
-│   │       ├── Q04_RolIDiceUntilSix.java
+│   │       ├── Q04_RollDiceUntilSix.java
 │   │       ├── Q05_AddTwoWithoutExceedingTen.java
 │   │       ├── Q06_ArithmeticProgression.java
 │   │       ├── Q07_ArithmeticProgressionReverse.java
@@ -48,6 +48,16 @@ java-bug-hunter/
 │   │       ├── Q13_BreakExample.java
 │   │       ├── Q14_ContinueExample.java
 │   │       ├── Q15_ArraySumAndAverage.java
+│   │       └── README.md
+│   ├── day5/                    
+│   │   └── practicequestion/
+│   │       ├── Q01_RectanglePattern.java
+│   │       ├── Q02_RightAngledTriangle.java
+│   │       ├── Q03_NumberTriangle.java
+│   │       ├── Q04_ZeroOneTriangle.java
+│   │       ├── Q05_ZeroOneTriangleReverse.java
+│   │       ├── Q06_StarPyramid.java
+│   │       ├── Q07_InvertedRightAngledTriangle.java
 │   │       └── README.md
 │   └── week1/
 │       └── assignment/
@@ -65,6 +75,7 @@ java-bug-hunter/
 ---
 
 ### 🚀 How to Run
+
 #### Clone the repository:
 ```bash
    git clone https://github.com/SGDilakshan/java-bug-hunter.git
