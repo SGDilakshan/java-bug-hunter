@@ -1,4 +1,4 @@
-# Bug Hunter – Day 04 (Optional Questions)
+# Bug Hunter – Day 05 (Optional Questions)
 
 **Date: 17 September 2025**  
 **Day: Wednesday**
