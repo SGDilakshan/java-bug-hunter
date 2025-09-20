@@ -59,6 +59,14 @@ java-bug-hunter/
 │   │       ├── Q06_StarPyramid.java
 │   │       ├── Q07_InvertedRightAngledTriangle.java
 │   │       └── README.md
+│   ├── day6/
+│   │   └── practicequestion/
+│   │       ├── Q01_MatrixPrinter.java
+│   │       ├── Q02_MatrixAdd20.java
+│   │       ├── Q03_AdditionExample.java
+│   │       ├── Q04_FactorialCalculator.java
+│   │       ├── Q05_AgeCalculator.java
+│   │       └── README.md
 │   ├── week1/
 │   │   └── assignment/
 │   │       ├── Q1_LightBulbTest.java
