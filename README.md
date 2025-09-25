@@ -77,18 +77,26 @@ java-bug-hunter/
 │   │       ├── Q6_ReportCard.java
 │   │       ├── Q7_RobotAssistant.java
 │   │       └── README.md
-│   └── week2/
+│   ├── week2/
+│   │   └── assignment/
+│   │       ├── Q01_CountPositiveNegativeZero.java
+│   │       ├── Q02_SecondLargestNumber.java
+│   │       ├── Q03_CountNumberOccurrences.java
+│   │       ├── Q04_PrintEvenIndexElements.java
+│   │       ├── Q05_ReverseNumber.java
+│   │       ├── Q06_PrintSquares.java
+│   │       ├── Q07_ArmstrongNumberCheck.java
+│   │       ├── Q08_PalindromeNumberCheck.java
+│   │       ├── Q09_NumberTriangle.java
+│   │       ├── Q10_StarPyramid.java
+│   │       └── README.md
+│   └── week3/
 │       └── assignment/
-│           ├── Q01_CountPositiveNegativeZero.java
-│           ├── Q02_SecondLargestNumber.java
-│           ├── Q03_CountNumberOccurrences.java
-│           ├── Q04_PrintEvenIndexElements.java
-│           ├── Q05_ReverseNumber.java
-│           ├── Q06_PrintSquares.java
-│           ├── Q07_ArmstrongNumberCheck.java
-│           ├── Q08_PalindromeNumberCheck.java
-│           ├── Q09_NumberTriangle.java
-│           ├── Q10_StarPyramid.java
+│           ├── Q01_Rectangle.java
+│           ├── Q02_Student.java
+│           ├── Q03_Book.java
+│           ├── Q04_BankAccount.java
+│           ├── Q05_Employee.java
 │           └── README.md
 └── README.md
 ```
