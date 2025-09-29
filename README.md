@@ -16,6 +16,16 @@ java-bug-hunter/
 │   │       ├── Q4_SecondLargestElement.java
 │   │       ├── Q5_ReverseArray.java
 │   │       └── README.md
+│   ├── week1/
+│   │   └── assignment/
+│   │       ├── Q1_LightBulbTest.java
+│   │       ├── Q2_BankBalance.java
+│   │       ├── Q3_FasterRunner.java
+│   │       ├── Q4_BiggestTreasure.java
+│   │       ├── Q5_MagicCalendar.java
+│   │       ├── Q6_ReportCard.java
+│   │       ├── Q7_RobotAssistant.java
+│   │       └── README.md
 │   ├── day2/
 │   │   └── practicequestion/
 │   │       ├── Q1_CheckSpeed.java
@@ -49,6 +59,19 @@ java-bug-hunter/
 │   │       ├── Q14_ContinueExample.java
 │   │       ├── Q15_ArraySumAndAverage.java
 │   │       └── README.md
+│   ├── week2/
+│   │   └── assignment/
+│   │       ├── Q01_CountPositiveNegativeZero.java
+│   │       ├── Q02_SecondLargestNumber.java
+│   │       ├── Q03_CountNumberOccurrences.java
+│   │       ├── Q04_PrintEvenIndexElements.java
+│   │       ├── Q05_ReverseNumber.java
+│   │       ├── Q06_PrintSquares.java
+│   │       ├── Q07_ArmstrongNumberCheck.java
+│   │       ├── Q08_PalindromeNumberCheck.java
+│   │       ├── Q09_NumberTriangle.java
+│   │       ├── Q10_StarPyramid.java
+│   │       └── README.md
 │   ├── day5/                    
 │   │   └── practicequestion/
 │   │       ├── Q01_RectanglePattern.java
@@ -67,37 +90,27 @@ java-bug-hunter/
 │   │       ├── Q04_FactorialCalculator.java
 │   │       ├── Q05_AgeCalculator.java
 │   │       └── README.md
-│   ├── week1/
-│   │   └── assignment/
-│   │       ├── Q1_LightBulbTest.java
-│   │       ├── Q2_BankBalance.java
-│   │       ├── Q3_FasterRunner.java
-│   │       ├── Q4_BiggestTreasure.java
-│   │       ├── Q5_MagicCalendar.java
-│   │       ├── Q6_ReportCard.java
-│   │       ├── Q7_RobotAssistant.java
+│   ├── day7/
+│   │   └── practicequestion/
+│   │       ├── Q01_NToOne.java
+│   │       ├── Q02_OneToN.java
+│   │       ├── Q03_Student.java
+│   │       ├── Q04_EquilibriumIndex.java
+│   │       ├── Q05_Account.java
 │   │       └── README.md
-│   ├── week2/
+│   ├── week3/
 │   │   └── assignment/
-│   │       ├── Q01_CountPositiveNegativeZero.java
-│   │       ├── Q02_SecondLargestNumber.java
-│   │       ├── Q03_CountNumberOccurrences.java
-│   │       ├── Q04_PrintEvenIndexElements.java
-│   │       ├── Q05_ReverseNumber.java
-│   │       ├── Q06_PrintSquares.java
-│   │       ├── Q07_ArmstrongNumberCheck.java
-│   │       ├── Q08_PalindromeNumberCheck.java
-│   │       ├── Q09_NumberTriangle.java
-│   │       ├── Q10_StarPyramid.java
+│   │       ├── Q01_Rectangle.java
+│   │       ├── Q02_Student.java
+│   │       ├── Q03_Book.java
+│   │       ├── Q04_BankAccount.java
+│   │       ├── Q05_Employee.java
 │   │       └── README.md
-│   └── week3/
-│       └── assignment/
-│           ├── Q01_Rectangle.java
-│           ├── Q02_Student.java
-│           ├── Q03_Book.java
-│           ├── Q04_BankAccount.java
-│           ├── Q05_Employee.java
-│           └── README.md
+│   ├── day8/
+│   │   └── practicequestion/
+│   │       ├── Q01_Car.java
+│   │       ├── Q02_FibonacciRecursive.java
+│   │       └── README.md
 └── README.md
 ```
 
